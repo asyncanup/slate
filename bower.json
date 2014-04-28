@@ -1,0 +1,13 @@
+{
+  "name": "slate",
+  "version": "0.0.1",
+  "main": "./slate.js",
+  "homepage": "https://github.com/anupbishnoi/slate",
+  "dependencies": {
+      "jquery": "*",
+      "underscore": "*",
+      "backbone": "*",
+      "handlebars": "*",
+      "humane-js": "*"
+  }
+}
